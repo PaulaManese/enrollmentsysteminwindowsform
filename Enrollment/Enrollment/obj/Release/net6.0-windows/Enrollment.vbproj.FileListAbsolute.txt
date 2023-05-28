@@ -1,0 +1,13 @@
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.vbproj.AssemblyReference.cache
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.Form1.resources
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.Form2.resources
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.Form3.resources
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.Form4.resources
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.Form5.resources
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.Form6.resources
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.Resources.resources
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.vbproj.GenerateResource.cache
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.AssemblyInfoInputs.cache
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.AssemblyInfo.vb
+C:\Users\luluk\source\repos\Enrollment\Enrollment\obj\Release\net6.0-windows\Enrollment.vbproj.CoreCompileInputs.cache
